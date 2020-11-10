@@ -1,2 +1,2 @@
-# propio
-lecciones de R
+# 
+Lecciones de R. Sebastian Tunell Udemy
